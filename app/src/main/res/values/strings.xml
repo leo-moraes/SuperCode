@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- TODO Change those Ad ID by your own Ad ID -->
+    <!-- app ad section -->
+    <string name="app_ad_id">ca-app-pub-6156369201406016~4724551873</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6156369201406016/8607956569</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-6156369201406016/3248706725</string>
+    <!-- end of the ad section -->
+
+    <!-- TODO Change app name and splash text from here -->
+    <string name="app_name">Super Code</string>
+    <string name="splash_text">Super Code \n Leitor e Gerador de Códigos de Barra e QR</string>
+    <string name="action_flash">Flash</string>
+    <string name="action_focus">Foco Automático</string>
+    <string name="action_cam">Alterar Câmera</string>
+
+    <string name="menu_scan">Escanear</string>
+    <string name="menu_generate">Gerar</string>
+    <string name="menu_history">Histórico</string>
+
+    <string name="share">Instale o leitor e gerador de QR Code e Código de Barras em:</string>
+    <string name="tapAgain">Toque novamente para sair</string>
+
+    <string name="permission_not_granted">Perminssão não garantida =c</string>
+
+    <string name="autofocus_on">Foco Automático ativado</string>
+    <string name="autofocus_off">Foco Automático desativado</string>
+
+    <string name="type_here_bar">Gerar Código de Barras</string>
+    <string name="type_here_qr">Gerar QR Code</string>
+
+    <string name="copied">Copiado!</string>
+    <string name="result">Resultado</string>
+
+    <string name="saving">Salvando...</string>
+    <string name="preparing">Preparando...</string>
+    <string name="saved_to">Salvo na pasta:\n</string>
+    <string name="directory_in">do armazenamento interno.</string>
+    <string name="no_history">Nada por aqui\nVocê ainda não fez nenhum escaneamento</string>
+
+</resources>
